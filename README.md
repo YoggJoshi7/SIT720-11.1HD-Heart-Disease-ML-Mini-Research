@@ -165,7 +165,8 @@ slope
 ca
 thal
 ```
-#Reproducibility Notes
+Reproducibility Notes:
+
 The implementation uses explicitly defined train-test and group-aware evaluation procedures.
 The notebook contains:
 - Data loading and preprocessing
@@ -179,6 +180,7 @@ The notebook contains:
 - Nested group-aware cross-validation
 - Performance visualisation
 The exact experimental details of the reference paper are not fully specified in all areas. Therefore, undocumented implementation details are not presented as exact reproductions.
+
 Limitations
 - The dataset contains substantial duplication in predictor patterns.
 - The exact implementation details of the reference paper are not completely documented.
@@ -186,7 +188,7 @@ Limitations
 - The proposed model is evaluated as a machine-learning research experiment and is not a clinically validated diagnostic system.
 
 Author
-Yogg K. Joshi
+Yogg Kunal Joshi
 Master of Applied Artificial Intelligence (Professional)
 Deakin University, Australia
 SIT720 – Machine Learning
