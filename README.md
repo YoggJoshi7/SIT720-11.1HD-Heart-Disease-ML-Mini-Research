@@ -164,8 +164,8 @@ oldpeak
 slope
 ca
 thal
-
-Reproducibility Notes
+```
+#Reproducibility Notes
 The implementation uses explicitly defined train-test and group-aware evaluation procedures.
 The notebook contains:
 - Data loading and preprocessing
@@ -190,3 +190,4 @@ Yogg K. Joshi
 Master of Applied Artificial Intelligence (Professional)
 Deakin University, Australia
 SIT720 – Machine Learning
+
